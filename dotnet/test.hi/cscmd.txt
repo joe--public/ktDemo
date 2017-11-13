@@ -1,0 +1,4 @@
+Microsoft (R) Visual C# Compiler version 12.0.40629.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
